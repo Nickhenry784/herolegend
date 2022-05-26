@@ -1,0 +1,15 @@
+export const images = {
+  background: require('./images/background.png'),
+  apolloInfo: require('./images/apolloInfo.png'),
+  apollo: require('./images/apollo.png'),
+  ares: require('./images/ares.png'),
+  aresInfo: require('./images/aresInfo.png'),
+  buy: require('./images/buy.png'),
+  banner: require('./images/button.png'),
+  demeter: require('./images/demeter.png'),
+  demeterInfo: require('./images/demeterInfo.png'),
+  poseidon: require('./images/poseidon.png'),
+  poseidonInfo: require('./images/poseidonInfo.png'),
+  zeus: require('./images/zeus.png'),
+  zeusInfo: require('./images/zeusInfo.png'),
+}
